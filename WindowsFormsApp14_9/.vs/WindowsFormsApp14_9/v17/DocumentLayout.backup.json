@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LTTQ\\WindowsFormsApp14_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E39AE5-5111-46C9-BE04-8EA2E768BBB7}|WindowsFormsApp14_9\\WindowsFormsApp14_9.csproj|e:\\lttq\\windowsformsapp14_9\\windowsformsapp14_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91E39AE5-5111-46C9-BE04-8EA2E768BBB7}|WindowsFormsApp14_9\\WindowsFormsApp14_9.csproj|solutionrelative:windowsformsapp14_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E39AE5-5111-46C9-BE04-8EA2E768BBB7}|WindowsFormsApp14_9\\WindowsFormsApp14_9.csproj|e:\\lttq\\windowsformsapp14_9\\windowsformsapp14_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E39AE5-5111-46C9-BE04-8EA2E768BBB7}|WindowsFormsApp14_9\\WindowsFormsApp14_9.csproj|solutionrelative:windowsformsapp14_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\LTTQ\\WindowsFormsApp14_9\\WindowsFormsApp14_9\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp14_9\\Form1.cs",
+              "ToolTip": "E:\\LTTQ\\WindowsFormsApp14_9\\WindowsFormsApp14_9\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp14_9\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:41:21.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\LTTQ\\WindowsFormsApp14_9\\WindowsFormsApp14_9\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp14_9\\Form1.cs",
+              "ToolTip": "E:\\LTTQ\\WindowsFormsApp14_9\\WindowsFormsApp14_9\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp14_9\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:19:30.319Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

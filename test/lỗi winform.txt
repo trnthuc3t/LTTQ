@@ -1,0 +1,28 @@
+Lỗi chung: lúc nhập không dùng đc cái phím xóa trên bàn phims
+Chưa update lại dư iệu khi them các loại nhỏ 
+
+
+Quản lí hóa đon nhập:
+Check lại xem n xác nhận sau khi thêm chi tiết hóa đon nhâp 2 xem có báo lỗi khóa ngoại kio
+lỗi dễ bị trùng HDN
+nên sửa mã hàng thành 1 cái chọn được hay hơn vì ko biết có những mã hàng nào tồn tại nên sửa thành chọn và tên hàng
+sau khi thêm thì nó chưa xuất hiện trên quản lí đon nhập
+
+
+
+Quản lí đanh mục hàng hóa:
+
+Lõi khi saấn xóa hàng hóa
+Vẫn lỗi định dạng ở file l
+Lỗi khi xóa ở hình dạng mắt ,công dụng,chất liệu, đặc điểm,màu sắc, loại kính,ước sản xuất gọng mắt,còn khi thêm thì xóa bình thường
+Quản lí Nhà cung cấp :
+lỗiko xóa đc 3 nhà cung cấp mặc dịnh, còn khi hêm thì xóa bình thường
+
+Quản lí khách hàng:
+lỗi xóa như trên
+
+Quản lí hóa đơn bán:hầu như có lỗi chung như ở trên
+
+
+
+

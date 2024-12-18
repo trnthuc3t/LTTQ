@@ -1,0 +1,12 @@
+E:\LTTQ\BaiTap\Bai30\Bai30\obj\Debug\Bai30.csproj.AssemblyReference.cache
+E:\LTTQ\BaiTap\Bai30\Bai30\obj\Debug\Bai30.Form1.resources
+E:\LTTQ\BaiTap\Bai30\Bai30\obj\Debug\Bai30.Properties.Resources.resources
+E:\LTTQ\BaiTap\Bai30\Bai30\obj\Debug\Bai30.csproj.GenerateResource.cache
+E:\LTTQ\BaiTap\Bai30\Bai30\obj\Debug\Bai30.csproj.CoreCompileInputs.cache
+E:\LTTQ\BaiTap\Bai30\Bai30\bin\Debug\Database1.mdf
+E:\LTTQ\BaiTap\Bai30\Bai30\bin\Debug\Database1_log.ldf
+E:\LTTQ\BaiTap\Bai30\Bai30\bin\Debug\Bai30.exe.config
+E:\LTTQ\BaiTap\Bai30\Bai30\bin\Debug\Bai30.exe
+E:\LTTQ\BaiTap\Bai30\Bai30\bin\Debug\Bai30.pdb
+E:\LTTQ\BaiTap\Bai30\Bai30\obj\Debug\Bai30.exe
+E:\LTTQ\BaiTap\Bai30\Bai30\obj\Debug\Bai30.pdb

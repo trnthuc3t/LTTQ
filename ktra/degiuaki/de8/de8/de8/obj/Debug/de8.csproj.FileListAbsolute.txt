@@ -1,0 +1,10 @@
+E:\LTTQ\ktra\degiuaki\de8\de8\de8\bin\Debug\de8.exe.config
+E:\LTTQ\ktra\degiuaki\de8\de8\de8\bin\Debug\de8.exe
+E:\LTTQ\ktra\degiuaki\de8\de8\de8\bin\Debug\de8.pdb
+E:\LTTQ\ktra\degiuaki\de8\de8\de8\obj\Debug\de8.csproj.AssemblyReference.cache
+E:\LTTQ\ktra\degiuaki\de8\de8\de8\obj\Debug\de8.Form1.resources
+E:\LTTQ\ktra\degiuaki\de8\de8\de8\obj\Debug\de8.Properties.Resources.resources
+E:\LTTQ\ktra\degiuaki\de8\de8\de8\obj\Debug\de8.csproj.GenerateResource.cache
+E:\LTTQ\ktra\degiuaki\de8\de8\de8\obj\Debug\de8.csproj.CoreCompileInputs.cache
+E:\LTTQ\ktra\degiuaki\de8\de8\de8\obj\Debug\de8.exe
+E:\LTTQ\ktra\degiuaki\de8\de8\de8\obj\Debug\de8.pdb

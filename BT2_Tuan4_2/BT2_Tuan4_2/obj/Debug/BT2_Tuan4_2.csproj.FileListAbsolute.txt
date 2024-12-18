@@ -1,0 +1,10 @@
+E:\LTTQ\BT2_Tuan4_2\BT2_Tuan4_2\bin\Debug\BT2_Tuan4_2.exe.config
+E:\LTTQ\BT2_Tuan4_2\BT2_Tuan4_2\bin\Debug\BT2_Tuan4_2.exe
+E:\LTTQ\BT2_Tuan4_2\BT2_Tuan4_2\bin\Debug\BT2_Tuan4_2.pdb
+E:\LTTQ\BT2_Tuan4_2\BT2_Tuan4_2\obj\Debug\BT2_Tuan4_2.csproj.AssemblyReference.cache
+E:\LTTQ\BT2_Tuan4_2\BT2_Tuan4_2\obj\Debug\BT2_Tuan4_2.Form1.resources
+E:\LTTQ\BT2_Tuan4_2\BT2_Tuan4_2\obj\Debug\BT2_Tuan4_2.Properties.Resources.resources
+E:\LTTQ\BT2_Tuan4_2\BT2_Tuan4_2\obj\Debug\BT2_Tuan4_2.csproj.GenerateResource.cache
+E:\LTTQ\BT2_Tuan4_2\BT2_Tuan4_2\obj\Debug\BT2_Tuan4_2.csproj.CoreCompileInputs.cache
+E:\LTTQ\BT2_Tuan4_2\BT2_Tuan4_2\obj\Debug\BT2_Tuan4_2.exe
+E:\LTTQ\BT2_Tuan4_2\BT2_Tuan4_2\obj\Debug\BT2_Tuan4_2.pdb

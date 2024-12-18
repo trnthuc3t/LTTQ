@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LTTQ\\QuanLiBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A95E80-E942-421C-8732-FE966BB71460}|QuanLiBanHang\\QuanLiBanHang.csproj|E:\\LTTQ\\QuanLiBanHang\\quanlibanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41A95E80-E942-421C-8732-FE966BB71460}|QuanLiBanHang\\QuanLiBanHang.csproj|solutionrelative:quanlibanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A95E80-E942-421C-8732-FE966BB71460}|QuanLiBanHang\\QuanLiBanHang.csproj|E:\\LTTQ\\QuanLiBanHang\\quanlibanhang\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A95E80-E942-421C-8732-FE966BB71460}|QuanLiBanHang\\QuanLiBanHang.csproj|solutionrelative:quanlibanhang\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A95E80-E942-421C-8732-FE966BB71460}|QuanLiBanHang\\QuanLiBanHang.csproj|e:\\lttq\\quanlibanhang\\quanlibanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A95E80-E942-421C-8732-FE966BB71460}|QuanLiBanHang\\QuanLiBanHang.csproj|solutionrelative:quanlibanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A95E80-E942-421C-8732-FE966BB71460}|QuanLiBanHang\\QuanLiBanHang.csproj|E:\\LTTQ\\QuanLiBanHang\\quanlibanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A95E80-E942-421C-8732-FE966BB71460}|QuanLiBanHang\\QuanLiBanHang.csproj|solutionrelative:quanlibanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LTTQ\\QuanLiBanHang\\QuanLiBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLiBanHang\\Program.cs",
+              "ToolTip": "E:\\LTTQ\\QuanLiBanHang\\QuanLiBanHang\\Program.cs",
+              "RelativeToolTip": "QuanLiBanHang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T03:13:18.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\LTTQ\\QuanLiBanHang\\QuanLiBanHang\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLiBanHang\\Form1.cs",
+              "ToolTip": "E:\\LTTQ\\QuanLiBanHang\\QuanLiBanHang\\Form1.cs",
+              "RelativeToolTip": "QuanLiBanHang\\Form1.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAuwFsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:25:43.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessDataBase.cs",
+              "DocumentMoniker": "E:\\LTTQ\\QuanLiBanHang\\QuanLiBanHang\\ProcessDataBase.cs",
+              "RelativeDocumentMoniker": "QuanLiBanHang\\ProcessDataBase.cs",
+              "ToolTip": "E:\\LTTQ\\QuanLiBanHang\\QuanLiBanHang\\ProcessDataBase.cs",
+              "RelativeToolTip": "QuanLiBanHang\\ProcessDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:53:43.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\LTTQ\\QuanLiBanHang\\QuanLiBanHang\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLiBanHang\\Form1.cs",
+              "ToolTip": "E:\\LTTQ\\QuanLiBanHang\\QuanLiBanHang\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLiBanHang\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:25:12.024Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

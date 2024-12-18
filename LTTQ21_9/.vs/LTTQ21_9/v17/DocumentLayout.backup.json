@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LTTQ\\LTTQ21_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{392A1C42-B006-4FF2-9DC7-CBA8F259BE13}|LTTQ21_9\\LTTQ21_9.csproj|e:\\lttq\\lttq21_9\\lttq21_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{392A1C42-B006-4FF2-9DC7-CBA8F259BE13}|LTTQ21_9\\LTTQ21_9.csproj|solutionrelative:lttq21_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\LTTQ\\LTTQ21_9\\LTTQ21_9\\Form1.cs",
+              "RelativeDocumentMoniker": "LTTQ21_9\\Form1.cs",
+              "ToolTip": "E:\\LTTQ\\LTTQ21_9\\LTTQ21_9\\Form1.cs [Design]",
+              "RelativeToolTip": "LTTQ21_9\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:51:35.4Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

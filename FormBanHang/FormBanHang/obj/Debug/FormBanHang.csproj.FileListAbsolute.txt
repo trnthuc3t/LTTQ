@@ -1,0 +1,10 @@
+E:\LTTQ\FormBanHang\FormBanHang\bin\Debug\FormBanHang.exe.config
+E:\LTTQ\FormBanHang\FormBanHang\bin\Debug\FormBanHang.exe
+E:\LTTQ\FormBanHang\FormBanHang\bin\Debug\FormBanHang.pdb
+E:\LTTQ\FormBanHang\FormBanHang\obj\Debug\FormBanHang.csproj.AssemblyReference.cache
+E:\LTTQ\FormBanHang\FormBanHang\obj\Debug\FormBanHang.Form1.resources
+E:\LTTQ\FormBanHang\FormBanHang\obj\Debug\FormBanHang.Properties.Resources.resources
+E:\LTTQ\FormBanHang\FormBanHang\obj\Debug\FormBanHang.csproj.GenerateResource.cache
+E:\LTTQ\FormBanHang\FormBanHang\obj\Debug\FormBanHang.csproj.CoreCompileInputs.cache
+E:\LTTQ\FormBanHang\FormBanHang\obj\Debug\FormBanHang.exe
+E:\LTTQ\FormBanHang\FormBanHang\obj\Debug\FormBanHang.pdb

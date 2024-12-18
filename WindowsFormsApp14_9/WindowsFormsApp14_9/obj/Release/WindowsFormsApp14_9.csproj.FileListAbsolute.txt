@@ -1,0 +1,5 @@
+E:\LTTQ\WindowsFormsApp14_9\WindowsFormsApp14_9\obj\Release\WindowsFormsApp14_9.csproj.AssemblyReference.cache
+E:\LTTQ\WindowsFormsApp14_9\WindowsFormsApp14_9\obj\Release\WindowsFormsApp14_9.Form1.resources
+E:\LTTQ\WindowsFormsApp14_9\WindowsFormsApp14_9\obj\Release\WindowsFormsApp14_9.Properties.Resources.resources
+E:\LTTQ\WindowsFormsApp14_9\WindowsFormsApp14_9\obj\Release\WindowsFormsApp14_9.csproj.GenerateResource.cache
+E:\LTTQ\WindowsFormsApp14_9\WindowsFormsApp14_9\obj\Release\WindowsFormsApp14_9.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+E:\LTTQ\ktra\degiuaki\de3\Test3\Test3\Test3\bin\Debug\Test3.exe.config
+E:\LTTQ\ktra\degiuaki\de3\Test3\Test3\Test3\bin\Debug\Test3.exe
+E:\LTTQ\ktra\degiuaki\de3\Test3\Test3\Test3\bin\Debug\Test3.pdb
+E:\LTTQ\ktra\degiuaki\de3\Test3\Test3\Test3\obj\Debug\Test3.csproj.AssemblyReference.cache
+E:\LTTQ\ktra\degiuaki\de3\Test3\Test3\Test3\obj\Debug\Test3.Form1.resources
+E:\LTTQ\ktra\degiuaki\de3\Test3\Test3\Test3\obj\Debug\Test3.Properties.Resources.resources
+E:\LTTQ\ktra\degiuaki\de3\Test3\Test3\Test3\obj\Debug\Test3.csproj.GenerateResource.cache
+E:\LTTQ\ktra\degiuaki\de3\Test3\Test3\Test3\obj\Debug\Test3.csproj.CoreCompileInputs.cache
+E:\LTTQ\ktra\degiuaki\de3\Test3\Test3\Test3\obj\Debug\Test3.exe
+E:\LTTQ\ktra\degiuaki\de3\Test3\Test3\Test3\obj\Debug\Test3.pdb

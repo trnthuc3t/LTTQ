@@ -1,0 +1,10 @@
+E:\LTTQ\ktra\xemay\TranTruongThuc_222631147\TranTruongThuc_222631147\bin\Debug\TranTruongThuc_222631147.exe.config
+E:\LTTQ\ktra\xemay\TranTruongThuc_222631147\TranTruongThuc_222631147\bin\Debug\TranTruongThuc_222631147.exe
+E:\LTTQ\ktra\xemay\TranTruongThuc_222631147\TranTruongThuc_222631147\bin\Debug\TranTruongThuc_222631147.pdb
+E:\LTTQ\ktra\xemay\TranTruongThuc_222631147\TranTruongThuc_222631147\obj\Debug\TranTruongThuc_222631147.csproj.AssemblyReference.cache
+E:\LTTQ\ktra\xemay\TranTruongThuc_222631147\TranTruongThuc_222631147\obj\Debug\TranTruongThuc_222631147.Properties.Resources.resources
+E:\LTTQ\ktra\xemay\TranTruongThuc_222631147\TranTruongThuc_222631147\obj\Debug\TranTruongThuc_222631147.csproj.GenerateResource.cache
+E:\LTTQ\ktra\xemay\TranTruongThuc_222631147\TranTruongThuc_222631147\obj\Debug\TranTruongThuc_222631147.csproj.CoreCompileInputs.cache
+E:\LTTQ\ktra\xemay\TranTruongThuc_222631147\TranTruongThuc_222631147\obj\Debug\TranTruongThuc_222631147.exe
+E:\LTTQ\ktra\xemay\TranTruongThuc_222631147\TranTruongThuc_222631147\obj\Debug\TranTruongThuc_222631147.pdb
+E:\LTTQ\ktra\xemay\TranTruongThuc_222631147\TranTruongThuc_222631147\obj\Debug\TranTruongThuc_222631147.btnThemAnh.resources

@@ -1,0 +1,10 @@
+E:\LTTQ\ktra\1\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\TranTruongThuc222631147.csproj.AssemblyReference.cache
+E:\LTTQ\ktra\1\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\ThiKetThucHocPhan.Properties.Resources.resources
+E:\LTTQ\ktra\1\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\TranTruongThuc222631147.csproj.GenerateResource.cache
+E:\LTTQ\ktra\1\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\TranTruongThuc222631147.csproj.CoreCompileInputs.cache
+E:\LTTQ\ktra\1\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\ThiKetThucHocPhan.exe
+E:\LTTQ\ktra\1\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\ThiKetThucHocPhan.pdb
+E:\LTTQ\ktra\1\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\TranTruongThuc222631147.Form1.resources
+E:\LTTQ\ktra\1\ThiKetThucHocPhan\ThiKetThucHocPhan\bin\Debug\ThiKetThucHocPhan.exe.config
+E:\LTTQ\ktra\1\ThiKetThucHocPhan\ThiKetThucHocPhan\bin\Debug\ThiKetThucHocPhan.exe
+E:\LTTQ\ktra\1\ThiKetThucHocPhan\ThiKetThucHocPhan\bin\Debug\ThiKetThucHocPhan.pdb

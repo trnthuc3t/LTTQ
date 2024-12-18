@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LTTQ\\BT2_Tuan4_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{792A24A4-409E-40D5-96A8-C2D169C781F6}|BT2_Tuan4_2\\BT2_Tuan4_2.csproj|e:\\lttq\\bt2_tuan4_2\\bt2_tuan4_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792A24A4-409E-40D5-96A8-C2D169C781F6}|BT2_Tuan4_2\\BT2_Tuan4_2.csproj|solutionrelative:bt2_tuan4_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A24A4-409E-40D5-96A8-C2D169C781F6}|BT2_Tuan4_2\\BT2_Tuan4_2.csproj|e:\\lttq\\bt2_tuan4_2\\bt2_tuan4_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{792A24A4-409E-40D5-96A8-C2D169C781F6}|BT2_Tuan4_2\\BT2_Tuan4_2.csproj|solutionrelative:bt2_tuan4_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A24A4-409E-40D5-96A8-C2D169C781F6}|BT2_Tuan4_2\\BT2_Tuan4_2.csproj|E:\\LTTQ\\BT2_Tuan4_2\\bt2_tuan4_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792A24A4-409E-40D5-96A8-C2D169C781F6}|BT2_Tuan4_2\\BT2_Tuan4_2.csproj|solutionrelative:bt2_tuan4_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\LTTQ\\BT2_Tuan4_2\\BT2_Tuan4_2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BT2_Tuan4_2\\Form1.Designer.cs",
+              "ToolTip": "E:\\LTTQ\\BT2_Tuan4_2\\BT2_Tuan4_2\\Form1.Designer.cs",
+              "RelativeToolTip": "BT2_Tuan4_2\\Form1.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwFMBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:35:22.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\LTTQ\\BT2_Tuan4_2\\BT2_Tuan4_2\\Form1.cs",
+              "RelativeDocumentMoniker": "BT2_Tuan4_2\\Form1.cs",
+              "ToolTip": "E:\\LTTQ\\BT2_Tuan4_2\\BT2_Tuan4_2\\Form1.cs",
+              "RelativeToolTip": "BT2_Tuan4_2\\Form1.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAuwKsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:33:19.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 164,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\LTTQ\\BT2_Tuan4_2\\BT2_Tuan4_2\\Form1.cs",
+              "RelativeDocumentMoniker": "BT2_Tuan4_2\\Form1.cs",
+              "ToolTip": "E:\\LTTQ\\BT2_Tuan4_2\\BT2_Tuan4_2\\Form1.cs [Design]",
+              "RelativeToolTip": "BT2_Tuan4_2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:09:52.783Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

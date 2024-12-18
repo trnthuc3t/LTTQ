@@ -1,0 +1,10 @@
+E:\LTTQ\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.csproj.AssemblyReference.cache
+E:\LTTQ\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.frmChatLieu.resources
+E:\LTTQ\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.Properties.Resources.resources
+E:\LTTQ\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.csproj.GenerateResource.cache
+E:\LTTQ\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.csproj.CoreCompileInputs.cache
+E:\LTTQ\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe.config
+E:\LTTQ\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.exe
+E:\LTTQ\QuanLiBanHang\QuanLiBanHang\bin\Debug\QuanLiBanHang.pdb
+E:\LTTQ\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.exe
+E:\LTTQ\QuanLiBanHang\QuanLiBanHang\obj\Debug\QuanLiBanHang.pdb
